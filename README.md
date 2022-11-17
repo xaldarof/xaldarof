@@ -1,11 +1,11 @@
-### What's up everybody, This is Teo
+### What's up everybody, This is Temur
 ![][1]
 
 <br />
 
-I am a passionate self-taught full stack web developer and a freelance software engineer. My passion for software focus on creating ideas and making them come true. I take great care in architecture and code quality of the things I build, based on my experience.
+I am a passionate self-taught software engineer. My passion for software focus on creating ideas and making them come true. I take great care in architecture and code quality of the things I build, based on my experience.
 
-I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 - 💬 Ask me about anything, I am happy to help;
 
@@ -28,6 +28,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 [1]: https://visitor-badge.glitch.me/badge?page_id=xaldarof.xaldarof
 [7]: https://github.com/HopeQuotes/Quotes-App-
-[img1]: https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif
+[img1]: https://media.giphy.com/media/kd9BlRovbPOykLBMqX/giphy.gif
 [img6]: https://github-readme-stats.vercel.app/api/pin/?username=HopeQuotes&repo=Quotes-App-&title_color=ffffff&text_color=c9cacc&icon_color=0879BA&bg_color=1d1f21
 
