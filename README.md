@@ -9,7 +9,7 @@ I learned a lot from the open-source community and I love how collaboration and 
 
 - 💬 Ask me about anything, I am happy to help;
 
-### Languages and tools:
+### Languages:
 
 * Java
 * Kotlin
