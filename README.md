@@ -15,9 +15,7 @@ I learned a lot from the open-source community and I love how collaboration and 
 * Kotlin
 * Dart
 * Python
-* Multiplatform dev
-* Telegram bot
-* Spring
+* C++
 
 ### 📈 My github stats
 
