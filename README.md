@@ -17,12 +17,6 @@ I learned a lot from the open-source community and I love how collaboration and 
 * Python
 * C++
 
-### 📈 My github stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xaldarof&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-![Temur's GitHub stats](https://github-readme-stats.vercel.app/api?username=xaldarof&show_icons=true&theme=dark)
-
 ![shy-cat][img1]
 
 
