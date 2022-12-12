@@ -1,5 +1,4 @@
 ### What's up everybody, This is Temur
-![][1]
 
 <br />
 
