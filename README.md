@@ -1,10 +1,12 @@
 
-val elizarov = developer {
+```kotlin
+val xaldarof = developer {
     about {
-          name = "Temur Xoldarov"
+        name = "Temur Xoldarov"
         company = Baik Technologies
     }
     links {
         telegram = "@xaldarof"
     }
 }
+```
