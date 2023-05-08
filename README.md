@@ -3,7 +3,6 @@
   final xaldarof = developer(() {
     about(() {
       name = "Temur Xoldarov"
-      company = "Baik Technologies"
     });
 
     links(() {
