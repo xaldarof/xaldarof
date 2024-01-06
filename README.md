@@ -2,7 +2,7 @@
 ```dart
   final xaldarof = developer(() {
     about(() {
-      name = "Temur Xoldarov"
+      name = "Temur"
     });
 
     links(() {
